@@ -4,10 +4,10 @@
 #include <stdio.h>
 
 int main(){
-  //imprime algumans mensagens na tela
-  printf("Mackenzie - FCI/n");
-  printf("Algoritmos e ");
-  printf("Prog. II/n");
+  //imprime algumas mensagens na tela
+  printf("Mackenzie - FCI\n");
+  printf("Ciência da Computação");
+  printf("Algoritmos e Programação II\n");
 
 
   return 0;
