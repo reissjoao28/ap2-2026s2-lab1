@@ -5,7 +5,7 @@
 
 int main(){
   //imprime algumas mensagens na tela
-  printf("Mackenzie - FCI\n");
+  printf("Mackenzie - FCI - 1970\n");
   printf("Ciência da Computação");
   printf("Algoritmos e Programação II\n");
 
